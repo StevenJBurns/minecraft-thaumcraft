@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0
+}
+
+html {
+  color: #DDDDDD;
+  background: #000000;
+  font-family: Calibri, Arial, sans-serif;
+  padding: 96px
+}
+
+body {
+  text-align: center
+}
+
+h1 {margin: 24px}
+.c {
+  font-family: Calibri
+}
+
+.a {
+  font-family: Arial
+}
+
+.s {
+  font-family: sans-serif
+}
